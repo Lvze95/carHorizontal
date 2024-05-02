@@ -1,0 +1,64 @@
+@font-face {font-family: "Swiss 721"; src: url("//db.onlinewebfonts.com/t/1a0e3ada844469d134e043b8a401f1ad.eot"); src: url("//db.onlinewebfonts.com/t/1a0e3ada844469d134e043b8a401f1ad.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/1a0e3ada844469d134e043b8a401f1ad.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/1a0e3ada844469d134e043b8a401f1ad.woff") format("woff"), url("//db.onlinewebfonts.com/t/1a0e3ada844469d134e043b8a401f1ad.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/1a0e3ada844469d134e043b8a401f1ad.svg#Swiss 721") format("svg"); }
+body{
+    margin: 0px;
+    background-color: #181818;
+    color: #fbfbfb;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18pt;
+}
+.kontent{
+    padding: 2% 5%;
+}
+nav{
+    text-align: center;
+    font-size: 28pt;
+}
+a{
+    text-decoration: none;
+    color: #ffd530;
+    font-weight: bold;
+    margin: 0px 15px;
+}
+a:hover{
+    color: #00c1e8;
+}
+.hero{
+    background-image: url("pozadina.jpg");
+    background-position: center;
+    padding: 3% 5%;
+    text-align: center;
+}
+#logo{
+    align-items: center;
+}
+h1{
+    font-size: 34pt;
+}
+input{
+    background-color: #00c1e8;
+    border: 0px;
+    border-radius: 5px;
+    width: 100%;
+    height: 50px;
+    font-size: 20pt;
+}
+label{
+    font-size: 22pt;
+    font-style: italic;
+    font-weight: bold;
+}
+input[type=submit]{
+    background-color: #ffd530;
+    color: #181818;
+    font-weight: bold;
+}
+input[type=submit]:hover{
+    background-color: #be9e1e;
+    color: #181818;
+    font-weight: bold;
+}
+#php{
+    color: rgb(163, 21, 21);
+    font-weight: bold;
+    text-align: center;
+}
