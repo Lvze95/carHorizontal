@@ -23,7 +23,7 @@ a:hover{
     color: #00c1e8;
 }
 .hero{
-    background-image: url("css/slike/pozadina.jpg");
+    background-image: url("slike/pozadina.jpg");
     background-position: center;
     padding: 3% 5%;
     text-align: center;
