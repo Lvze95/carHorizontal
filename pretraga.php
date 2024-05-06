@@ -9,7 +9,7 @@
 <body>
     
 <div class="hero">
-        <img src="logo.png" alt="log" id="logo">
+        <img src="css/slike/logo.png" alt="log" id="logo">
         <h1> Spisak vozila </h1>
     </div>
     <div class="kontent" id="php">

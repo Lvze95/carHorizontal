@@ -15,7 +15,7 @@
         <a href="pretraga.php">Pretraga</a>
     </nav>
     <div class="hero">
-        <img src="logo.png" alt="log" id="logo">
+        <img src="css/slike/logo.png" alt="log" id="logo">
         <h1> Ukoliko zelite ovde mozete obrisati sve podatke o Vasem vozilu. Unesite broj sasije </h1>
     </div>
     <form action="" method="post" class="kontent">
