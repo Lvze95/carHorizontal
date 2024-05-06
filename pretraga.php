@@ -8,7 +8,13 @@
 </head>
 <body>
     
-<div class="hero">
+    <nav class="kontent">
+        <a href="index.php">Pocetna</a>
+        <a href="promena_podataka.php">Promena podataka</a>
+        <a href="brisanje_podataka.php">Brisanje podataka</a>
+        <a href="pretraga.php">Pretraga</a>
+    </nav>
+    <div class="hero">
         <img src="css/slike/logo.png" alt="log" id="logo">
         <h1> Spisak vozila </h1>
     </div>
